@@ -5,6 +5,8 @@ ESP32-based OBD/CAN telemetry project for the Skoda Citigo-e iV, Volkswagen e-Up
 The goal of this project is to expose useful EV battery and range data to Home Assistant using a low-cost ESP32 board and a CAN transceiver.
 
 ![Citigo ESP32 OBD setup](docs/beta-assembly.jpg)
+![ESP](docs/esp-ui.jpg)
+
 
 ## Current status
 
